@@ -1,5 +1,5 @@
 {
-  "Working Directory" : "\/Users\/djs",
+  "Working Directory" : "\/Users\/[*** fill in working directory ***]",
   "Prompt Before Closing 2" : 0,
   "Selected Text Color" : {
     "Red Component" : 0.765329122543335,
@@ -352,7 +352,7 @@
     "Green Component" : 0.6349748373031616
   },
   "Disable Smcup Rmcup" : false,
-  "Name" : "DJS Next",
+  "Name" : "Charcoal",
   "Blinking Cursor" : true,
   "Guid" : "029A9053-633C-48EE-A5AA-DD4EB9CF3E8E",
   "Ansi 1 Color" : {
