@@ -7,20 +7,20 @@ author: Don Steinert (http://www.dnld.cc)
 colorSpaceName: sRGB
 
 gutterSettings:
-  background: '#25292c'
-  divider: '#25292c'
-  foreground: '#cfd2d1'
-  selectionBackground: '#44494f'
-  selectionForeground: '#cfd2d1'
+  background: '#2B2C2F'
+  divider: '#2B2C2F'
+  foreground: '#CCCECE'
+  selectionBackground: '#3E4044'
+  selectionForeground: '#CCCECE'
 semanticClass: charcoal.dark
 settings:
 - settings:
-    background: '#25292c'
-    caret: '#cfd2d1'
-    foreground: '#cfd2d1'
-    invisibles: '#44494f'
-    lineHighlight: '#474c53'
-    selection: '#44494f'
+    background: '#2B2C2F'
+    caret: '#CCCECE'
+    foreground: '#CCCECE'
+    invisibles: '#3E4044'
+    lineHighlight: '#3E4044'
+    selection: '#3E4044'
 
 - name: Comments
   scope: comment, punctuation.definition.comment
@@ -30,7 +30,7 @@ settings:
 - name: Variable
   scope: variable
   settings:
-    foreground: '#cfd2d1'
+    foreground: '#CCCECE'
 
 - name: Keyword, Storage
   scope: keyword, storage.type, storage.modifier
